@@ -1,0 +1,319 @@
+---
+class: middle
+title: 'Organización y Visualización: Variables cualitativas'
+author: "Evelyn Gutierrez^[egutierreza@pucp.edu.pe]"
+date: "Abril, 2021"
+output:
+  pdf_document:
+    toc: yes
+  xaringan::moon_reader:
+    css: ["default","css/sfah.css", "css/fonts.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false.
+  html_document:
+    highlight: textmate
+    number_sections: yes
+    theme: simplex
+    toc: yes
+    toc_float: yes 
+always_allow_html: yes
+---
+
+class: middle
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+options(htmltools.dir.version = FALSE)
+library(knitr)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+#options(knitr.table.format = "html")
+library(tidyverse)
+library(babynames)
+library(fontawesome)
+library(DiagrammeR)
+```
+
+
+
+\newline
+
+
+\newpage
+
+Para la sesión, necesitamos instalar los siguientes paquetes:
+
+* janitor
+* summarytools
+* tidyverse
+
+Para instalarlos, utilizamos los siguientes comandos en la consola una sola vez.
+
+```{r eval=FALSE, include=TRUE}
+install.packages("janitor")
+install.packages("summarytools")
+install.packages("tidyverse")
+```
+
+--
+
+Luego, esperamos a que complete la instalación y verificamos:
+
+```{r}
+library(janitor)
+library(summarytools)
+library(ggplot2)
+```
+
+
+---
+class: center, middle
+
+En esta sesión veremos la exploración de variables cualitativas utilizando tablas, y gráficos. 
+
+<!-- Comenzamos creando un nuevo script en R en donde iremos añadiendo los codigos que describimos más adelante. -->
+
+Para ello, abrimos el archivo: **"Univar_1_Var_Cualitativas.R"**.
+
+
+Si no lo tienes, puedes ir copiando y pegando los siguientes códigos que mostraremos.
+
+---
+
+# Lectura de datos. 
+
+Con el siguiente código, leemos los datos directamente desde un enlace:
+
+```{r datos}
+
+# Cargar los datos sobre Cancer de mama:
+url<-"https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer/breast-cancer.data"
+datos <- read.table(url, sep=",",stringsAsFactors=TRUE)
+names(datos) <- c("clase","edad","menopausia","tamanio",
+                       "inv_nodes","node_caps","deg_malig",
+                       "breast","breast_quad","irradiat")
+## Mas informacion en: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
+  
+```
+
+---
+
+# Exploración inicial.
+
+Exploramos el dataset observando los primeros 6 registros. Para ello, usamos el comando `head`: 
+
+```{r eval=FALSE, include=TRUE}
+head(datos) # primeros 6 
+```
+
+Luego, realizamos una exploración del tipo de columnas que tiene este dataset.
+```{r}
+str(datos)
+```
+
+Observamos que en este set de datos todas las variables excepto `deg_malig` son de tipo factor (observe 'Factor' al lado de cada variable).
+
+---
+#  Organización y visualización: Variables cualitativas.
+
+Ahora, comenzaremos a explorar el dataset utilizando tablas y gráficos para variables cualitativas.
+
+---
+## Tablas de Frecuencias. 
+
+Las tablas de frecuencias se pueden construir de diferentes maneras en R. 
+
+- Aquí veremos 3 formas.
+
+--
+### Utilizando `table`
+
+Exploramos la variable clase con tablas de frecuencias:
+
+```{r}
+# Explorando con tablas: frecuencias y proporciones
+table(datos$clase)
+```
+
+--
+**Interpretación**:
+- Tenemos 201 casos de eventos no recurrentes de cáncer, y 
+- 85 observaciones con eventos recurrentes de cáncer,
+
+
+---
+
+#### Proporciones.
+
+```{r}
+# prop.table convierte la tabla a proporciones
+proptable <- prop.table(table(datos$clase))
+# round redondea a los digitos indicados en el segundo argumento.
+round(proptable, 3) 
+```
+
+--
+
+**Interpretación**:
+- El 70.3% de las observaciones son eventos no recurrentes de cáncer, y 
+- 29.7% de las observaciones son eventos recurrentes de cáncer,
+
+--
+
+```{r}
+# El comando as.data.frame convierte esta tabla a un data frame para mejorar la visualización 
+as.data.frame(proptable)  
+
+```
+
+
+---
+
+### Utilizando `janitor`
+
+Ahora, exploramos la variable `age` con tablas de frecuencias. Esta vez utilizaremos el paquete janitor para una mejor visualización. 
+
+Utilizamos el comando `tabyl` para crear la tabla de frecuencias y observamos los resultados e interpretamos.
+  
+```{r warning=FALSE}
+library(janitor)
+janitor::tabyl(datos$edad)
+```
+
+---
+
+### Utilizando `summarytools`
+ 
+Otra opción es usar el paquete `summarytools`. 
+Si ya realizó la instalación, utilice el siguiente código:
+
+```{r warning=FALSE, message=FALSE}
+library(summarytools)
+summarytools::freq(datos$menopausia, 
+                   order = "freq")
+```
+
+--
+
+**Interpretación**:
+- El 52.45% de las observaciones son mujeres que tuvieron pre menopausia.
+- El 45.10% de las observaciones son mujeres que tuvieron la menopausia a los 40 o más.
+- Solo el 2.42% tuvo la menopausia antes de los 40.
+
+
+---
+
+## Gráfico circular
+
+Para crear un gráfico circular, utilizamos el comando `pie`. Por ejemplo, lo utilizaremos para observar la clasificación de los casos de cancer.
+  
+```{r, fig.width=5.5, fig.align = 'center'}
+pie(table(datos$clase), 
+    main="Gráfico para la clasificación de casos")
+```
+
+Note que despues de *main* vemos un texto. Este texto es el título principal (main) del gráfico. Podemos modificar el título, cambiando el texto dentro de las comillas.
+  
+---
+
+Alternativamente, podemos utilizar la librería ggplot para crear un gráfico de pie con mejor apariencia.
+  
+```{r, fig.height=3, fig.align = 'center'}
+tabla_clase <- data.frame(table(datos$clase))
+names(tabla_clase) <- c("Clase","Frecuencia")
+
+library(ggplot2)
+ggplot(tabla_clase, 
+       aes(x="", y=Frecuencia, fill=Clase)) +
+  geom_bar(stat="identity", width=1) + 
+  coord_polar("y", start=0) + theme_void()
+```
+  
+
+---
+
+## Gráfico de barras.
+
+Creamos el gráfico de barras para la variable menopausia. 
+
+```{r, fig.height=3, fig.align = 'center'}
+  barplot(table(datos$menopausia), 
+          xlab="Menopausia",
+          ylab="Frecuencia",
+          main="Distribución de tipos de menopausia")
+```
+
+Este gráfico acompaña a la tabla de frecuencias para una visualización rápida de la distribución de la variable.
+
+
+---
+name: section
+class: top, inverse
+background-image: url("data:image/jpeg;base64,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")
+background-size: cover
+ 
+ 
+<!-- 
+
+ 
+---
+name: yourturn
+template: section
+
+.left-column[
+# <i class="fas fa-edit"></i> <br>.fancy[Ejercicio]]
+
+---
+
+-name: yourturn1 
+  
+
+.right-column[
+Realizar el análisis univariado de las variables del dataset que no han sido analizadas. Considerar lo siguiente:
+
+1. Explorar la variable .heatinline[**tumor-size**] (tamaño del tumo) utilizando un gráfico y una tabla de frecuencias. Observar la frecuencia y proporciones de cada categoría. Interpretar resultados.
+
+2. Explorar la variable .heatinline[**deg-malig**] (grado histológico del tumor) utilizando un gráfico y tabla de frecuencias. Observar la frecuencia y proporciones de cada categoría e interpretar resultados.
+
+3. Explorar la variable .heatinline[**breast**] (lado) utilizando un gráfico y tabla de frecuencias. Observar la frecuencia y proporciones de cada categoría e interpretar resultados.]
+
+
+.left-column[
+## .fancy[.acidinline[10:00 minutos]]
+]
+ 
+
+-->
+
+
+# Ejercicios 
+
+ 
+Realizar el análisis univariado de las variables del dataset que no han sido analizadas. Considerar lo siguiente:
+
+1. Explorar la variable .heatinline[**tumor-size**] (tamaño del tumo) utilizando un gráfico y una tabla de frecuencias. Observar la frecuencia y proporciones de cada categoría. Interpretar resultados.
+
+2. Explorar la variable .heatinline[**deg-malig**] (grado histológico del tumor) utilizando un gráfico y tabla de frecuencias. Observar la frecuencia y proporciones de cada categoría e interpretar resultados.
+
+3. Explorar la variable .heatinline[**breast**] (lado) utilizando un gráfico y tabla de frecuencias. Observar la frecuencia y proporciones de cada categoría e interpretar resultados.
+
+# Otros materiales
+
+
+* [Gráficos de barra](https://bookdown.org/jboscomendoza/r-principiantes4/graficas-de-barras.html)
+
+
+ 
+setwd("G:/Mon Drive/6. Trabajos/2021/UNICA/Presentaciones/Grupo 2/Tema2_Univariado/")
+knitr::purl("Exploracion_y_visualizacion.Rmd","1_Variables_Cualitativas.R")
+
+
+----
+
+--->
+ 
+
+

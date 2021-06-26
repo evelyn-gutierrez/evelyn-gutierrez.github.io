@@ -1,0 +1,234 @@
+---
+title: 'Organización y Visualización: Variables Cuantitativas'
+author: "Evelyn Gutierrez^[egutierreza@pucp.edu.pe]"
+date: "Marzo, 2021"
+output:
+  pdf_document:
+    toc: yes
+    number_sections: yes
+  html_document: default
+  word_document: default
+---
+ 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+  
+**Nota**: La versión actualizada de este documento se encuentra en este **[enlace.](https://rpubs.com/Elyn1017/exploracionR_cuanti)**
+
+\newpage
+  
+En esta sesión veremos la exploración de variables *cuantitativas* utilizando tablas de frecuencias y gráficos para estas variables. 
+  
+Comenzamos creando un nuevo script en R que llamaremos **exploracion_cuanti** en donde iremos añadiendo los códigos que describimos más adelante.
+
+
+## 1. Lectura de datos. {#lectura}
+
+Los datos que utilizaremos son datos sobre abulones negros del estrecho de Bass que separa Tasmania de Australia continental. Estos datos se publicaron originalmente como parte del siguiente estudio:
+
+"WJ Nash, TL Sellers, SR Talbot, AJ Cawthorn and WB Ford (1994). The Population Biology of Abalone (Haliotis species) in Tasmania. I. Blacklip Abalone (H. rubra) from the North Coast and Islands of Bass Strait. Sea Fisheries Division, Technical Report No. 48 (ISSN 1034-3288)"
+
+Para leer los datos desde un enlace en la web, utilizamos el siguiente enlace:
+
+```{r datos}
+
+# Datos Abulones
+enlace <- "https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data"
+datos <- read.table(enlace, sep=",")
+names(datos) <- c("sex","length","Diameter","Height",
+                  "WholeHeight","ShuckedWeight","VisceraWeight",
+                  "ShellWeight","Rings")
+## Mas informacion en: 
+## https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.names
+  
+```
+
+Realizamos una transformación en las columnas para obtener las medidas en milimetros y en gramos.
+
+```{r}
+datos$length <- datos$length*200
+datos$Diameter <- datos$Diameter*200
+datos$Height <- datos$Height*200
+datos$WholeHeight <- datos$WholeHeight*200
+datos$ShuckedWeight <- datos$ShuckedWeight*200
+datos$VisceraWeight <- datos$VisceraWeight*200
+datos$ShellWeight <- datos$ShellWeight*200
+```
+
+
+## 2. Exploración inicial
+
+
+Para explorarl los datos, el comando `head` nos mostrará los primeros 6 registros: 
+
+```{r pressure, echo=TRUE}
+head(datos) # primeros 6 
+```
+
+
+Tambien, realizamos una exploración de las columnas que tiene este dataset.
+
+```{r}
+str(datos)
+```
+
+En este dataframe, todas las columnas son numéricas excepto **sex** que es de tipo texto.
+
+Instalamos utilizando:
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
+install.packages("janitor")
+```
+
+
+Exploramos la unica variables cualitativa sex. 
+ 
+```{r message=FALSE, warning=FALSE}
+library(janitor)
+tabyl(datos$sex, sort = TRUE)# Tabla de frecuencias para sex
+```
+
+Note que F: Femenino, M: masculino, y I: Bebé (infante)
+
+Como ejercicio, interpretar los resultados. ¿Qué categoría es la más frecuente? ¿y la categoría menos frecuente, cuál es? ¿Cuál es la moda? ¿Podemos calcular la mediana?
+
+
+##  3. Organización y visualización: Variables cuantitativas. {#orga}
+
+Ahora, comenzamos a explorar las variables cuantativas continuas.\
+Iniciamos explorando la variable **length**: el largo de los abulones.
+
+### 3.1. Gráfico de bastones: {#bastones}
+
+Se utiliza para gráficar la distribución de variables cuantitativas discretas con pocos valores únicos. \
+En nuestro caso, lo utilizaremos para la variable Rings como ejemplo. Ejecutar el siguiente código:
+
+```{r message=FALSE, warning=FALSE}
+plot(table(datos$Rings)) # Realiza el gráfico de bastones
+```
+
+
+Como vemos, se muestras demasiados bastones. Esto no es conveniente ya que puede dificultar su lectura. Recomendamos utilizar, en el caso de variables cuantitativas discretas con muchos valores, un histograma. 
+
+A modo de ejemplo, utilizaremos el dataset **ToothGrowth** de la librería **datasets** en donde encontramos la variable cuantitativa discreta **dose**: niveles de dosis de vitamina C utilizada en experimentos para el crecimiento de odontoblastos, células responsables del crecimiento de los dientes de cuyes.
+
+
+```{r}
+library(datasets) # La librería datasets contiene muchas bases de datos para explorar y analizar.
+head(ToothGrowth) # Vemos las 6 primeras filas de los datos ToothGrowth.
+
+# Finalmente, graficamos la variable dose (Dosis) utilizada en los experimentos.
+plot(table(ToothGrowth$dose),
+     main="Gráfico de bastones para la dosis",
+     xlab="Dosis de vitamina C (mg/día)")
+```
+\
+Observemos que las barras tienen la misma altura (20). Esto se debe a que estos son los datos de un experimento en donde se ha realizado 20 repeticiones con cada uno de los niveles de dosis: 0.5, 1 y 2 miligramos por día.
+
+<!--
+Otro ejemplo, lo realizaremos con la variable conc del dataset CO2 disponible en la librería datasets.
+
+```{r}
+library(datasets) # La librería datasets contiene muchos datos para analizar y explorar.
+head(CO2) # Vemos las 6 primeras filas de los datos ToothGrowth 
+
+# Graficamos la variable dose (Dosis) utilizada en los experimentos
+plot(table(CO2$conc))
+```
+-->
+
+### 3.2. Histograma: {#histograma}
+
+El histograma nos servirá para graficar la distribución de una variable cuantitativa continua o una variable cuantitativa discreta con muchos valores únicos. 
+
+Iniciamos, utilizando el histograma en la variable **length** con el siguiente código:
+
+```{r}
+hist(datos$length)
+```  
+
+Como se puede observar, este gráfico tiene los títulos en inglés. Podemos personalizarlo añadiendo unas líneas adicionales de código:
+
+
+```{r}
+hist(datos$length,
+     main="Histograma del largo de los abulones",
+     xlab="Largo de los abulones (mm)",
+     ylab="Proporción",
+     probability = TRUE)
+```
+
+Tambien podemos añadir colores con un par de lineas adicionales:
+
+```{r}
+hist(datos$length,
+     main="Histograma del largo de los abulones",
+     xlab="Largo de los abulones (mm)",
+     ylab="Frecuencia",
+     col="orange",
+     border="blue")
+```
+
+### 3.3. Tablas de frecuencia {#tablas}
+
+Las tablas de frecuencia se construirán tomando como base los cortes realizados en el histograma. A partir de estos cortes, se crea una nueva variable y se muestra con una tabla. 
+Utilizaremos el paquete summarytools para obtener una visualización completa de la tabla de frecuencias.
+
+Instalamos utilizando:
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
+install.packages("summarytools")
+```
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+library(summarytools)
+histo <- hist(datos$length) # Crea el histograma
+cortes <- histo$breaks # Obtiene los cortes para la variable a partir del histograma
+variable_categorizada <- cut(datos$length,cortes) #Crea la variable categorizada
+freq(variable_categorizada) # Muestra la tabla de frecuencias
+```
+
+ 
+## 4. Ejercicio {#ejercicios}
+
+* Utilizar los códigos presentados para crear histogramas y tablas de frecuencias para las variables del dataset sobre abulones. (Interpretar resultados)
+
+Por ejemplo, para la variable `Diameter` utilizaremos el siguiente código.
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+library(summarytools)
+
+# Primero, crea el histograma con el siguiente código:
+histo <- hist(datos$Diameter,
+              main="Histograma del diámetro",
+              xlab="Diametro (mm) ")
+
+# Luego, crear la tabla de frecuencia con las líneas siguientes:
+cortes <- histo$breaks # Obtiene los cortes para la variable a partir del histograma
+variable_categorizada <- cut(datos$Diameter, cortes) #Crea la variable categorizada
+freq(variable_categorizada) # Muestra la tabla de frecuencias
+```
+
+En su reporte escribir sus conclusiones:
+
+
+1. ¿Entre qué valores se encuentran los datos del diámetro? 
+2. ¿En qué rango de diámetros encontramos mayor frecuencia?
+3. ¿En qué rangos encontramos frecuencias menores a 5%? 
+
+
+Ejemplo: 
+
+Se observa que el diámetro de los abulones estudiados se encuentra entre 10mm y 130mm. Además, los abulones más frecuentes tienen entre 90mm y 100mm de diámetro mientras que los abulones menos frecuentes son aquellos que tienen diámetros menores o iguales a 50mm y mayores a 110mm.
+
+ 
+## Materiales adicionales: 
+
+* [Histogramas](https://bookdown.org/jboscomendoza/r-principiantes4/histogramas.html)
+
+* [Visualización de datos con R (inglés)](https://rkabacoff.github.io/datavis/Univariate.html)
+
+* [Ejemplo de exploración del dataset abulones en RPubs (Inglés)](https://shapbio.me/courses/biolB215s14/abalone_cleaning.html)
+
+* [Ejemplo de exploracion del dataset abulones en RPubs(Español)](https://rpubs.com/camilamila/analisis_exp)
