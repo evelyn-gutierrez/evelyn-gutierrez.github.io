@@ -11,6 +11,21 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
+    <loc>/2021/06/26/article-r/</loc>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
+    <loc>/category/data-science/</loc>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
+    <loc>/category/stats/</loc>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
     <loc>/tag/data-analysis/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,16 +65,10 @@
     <loc>/tag/thermography/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
     <loc>/2020/12/01/hello-r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/category/r/</loc>
@@ -83,9 +92,6 @@
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2016/12/30/a-plain-markdown-post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url><url>
     <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -94,9 +100,6 @@
   </url><url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/2015/01/01/lorem-ipsum/</loc>
-    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url><url>
     <loc>/admin/</loc>
   </url>
