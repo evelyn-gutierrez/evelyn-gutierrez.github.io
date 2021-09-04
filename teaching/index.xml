@@ -1,44 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching | Evelyn Gutierrez</title>
+    <title>Teachings | Evelyn Gutierrez</title>
     <link>/teaching/</link>
       <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Evelyn Gutierrez</copyright><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <description>Teachings</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-la</language><copyright>© 2021 Evelyn Gutierrez</copyright>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Teaching</title>
+      <title>Teachings</title>
       <link>/teaching/</link>
     </image>
     
     <item>
-      <title>Using RMarkdown (Spanish)</title>
-      <link>/teaching/markdown_taller/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/teaching/markdown_taller/</guid>
-      <description>&lt;p&gt;Material:&lt;/p&gt;
+      <title>Enseñanza</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description>
+&lt;script src=&#34;/teaching/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pebiba-taller-rmd.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Web page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/EST145/&#34;&gt;Estádistica Básica con R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pebiba-taller-rmd.netlify.app/&#34;&gt;Taller de RMarkdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos&#34;&gt;Tratamiento de datos perdidos&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Exploratory Analysis with R (Spanish)</title>
-      <link>/teaching/basicstats_r/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/teaching/basicstats_r/</guid>
-      <description>&lt;p&gt;Material:&lt;/p&gt;
-&lt;p&gt;Tutorials on how to use R for basic exploring of data:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/introR_primeros_pasos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro a R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/introR_manejo_datos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro al manejo de datos con R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuali&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Qualitative variables&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuanti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Quantitative variables&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_resumen_y_boxplot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Summary measures&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracion_bivar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Bivariate exploration&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+      <title>Untitled</title>
+      <link>/teaching/tratamiento_perdidos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/tratamiento_perdidos/</guid>
+      <description>
+&lt;script src=&#34;/teaching/tratamiento_perdidos/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;R Markdown&lt;/h2&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Including Plots&lt;/h2&gt;
+&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/teaching/tratamiento_perdidos/index_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

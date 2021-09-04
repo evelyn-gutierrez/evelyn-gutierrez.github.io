@@ -41,8 +41,43 @@
                 href="/event/"
                 />
   </url><url>
+    <loc>/tag/rmarkdown/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/rmarkdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tag/rmarkdown/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/teaching-copie/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching-copie/markdown_taller/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/blogdown/</loc>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,19 +89,10 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/2021/07/29/termografia/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
-  </url><url>
-    <loc>/category/termografia/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
-  </url><url>
-    <loc>/category/blogdown/</loc>
+    <loc>/2021/06/26/article-r/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
-    <loc>/2021/06/26/article-r/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
     <loc>/category/rstudio/</loc>
@@ -74,6 +100,12 @@
   </url><url>
     <loc>/category/webpage/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
+    <loc>/tag/analisis-de-datos/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching-copie/basicstats_r/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
@@ -177,19 +209,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
                 />
   </url><url>
     <loc>/tag/thermography/</loc>
@@ -307,5 +326,25 @@
                 hreflang="es"
                 href="/admin/"
                 />
+  </url><url>
+    <loc>/1/01/01/</loc>
+  </url><url>
+    <loc>/teaching/</loc>
+  </url><url>
+    <loc>/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/teaching/"
+                />
+  </url><url>
+    <loc>/teaching-copie/tratamiento_perdidos/</loc>
+  </url><url>
+    <loc>/teaching/tratamiento_perdidos/</loc>
   </url>
 </urlset>
