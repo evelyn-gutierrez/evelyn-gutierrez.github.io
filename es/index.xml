@@ -33,14 +33,26 @@
     </item>
     
     <item>
-      <title>Termografía</title>
+      <title>Cámaras térmicas</title>
       <link>/es/2021/07/29/termografia/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/es/2021/07/29/termografia/</guid>
-      <description>&lt;p&gt;dads&lt;/p&gt;
-&lt;p&gt;asdasd&lt;/p&gt;
-&lt;p&gt;adas
-dasd&lt;/p&gt;
+      <description>&lt;p&gt;En este post explicaré algunos carácteristicas técnicas de las cámara térmicas para poder entender las fortalezas y limitaciones de una cámaras.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tamaño de pixel (Thermal pixel size)&lt;/li&gt;
+&lt;li&gt;Resolución (Thermal resolution).&lt;/li&gt;
+&lt;li&gt;Sensibilidad térmica. (Thermal sensitivity)&lt;/li&gt;
+&lt;li&gt;Rango de temperaturas. (Object Temperature range)&lt;/li&gt;
+&lt;li&gt;Operating temperature.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No todas las cámaras funcionan en cualquier condición. EL rango de temepraturas nos da la idea de en qué condiciones de temperatura podemos usarlas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Non operating temperature.&lt;/li&gt;
+&lt;li&gt;Rango espectral (Spectral range)&lt;/li&gt;
+&lt;li&gt;Frame Rate.&lt;/li&gt;
+&lt;li&gt;Focus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Como ejemplo, tenemos la cámara termica FlirOne Pro. Cuesta aproximadamente 500&lt;/p&gt;
 </description>
     </item>
     

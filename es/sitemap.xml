@@ -2,310 +2,310 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/es/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
   </url><url>
-    <loc>/es/talk/example-talk/</loc>
+    <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/talk/example-talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/talk/example-talk/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/talk/example-talk/"
-                />
   </url><url>
-    <loc>/es/event/</loc>
+    <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/event/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/event/"
-                />
   </url><url>
-    <loc>/es/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-07-29T19:20:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
   </url><url>
-    <loc>/es/post/</loc>
+    <loc>/2021/07/29/termografia/</loc>
     <lastmod>2021-07-29T19:20:39-05:00</lastmod>
   </url><url>
-    <loc>/es/2021/07/29/termografia/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-07-29T19:20:39-05:00</lastmod>
   </url><url>
-    <loc>/es/category/termografia/</loc>
+    <loc>/category/termografia/</loc>
     <lastmod>2021-07-29T19:20:39-05:00</lastmod>
   </url><url>
-    <loc>/es/category/blogdown/</loc>
+    <loc>/category/blogdown/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
-    <loc>/es/2021/06/26/article-r/</loc>
+    <loc>/2021/06/26/article-r/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
-    <loc>/es/category/rstudio/</loc>
+    <loc>/category/rstudio/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
-    <loc>/es/category/webpage/</loc>
+    <loc>/category/webpage/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
-    <loc>/es/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/publication-type/1/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication-type/1/"
-                />
   </url><url>
-    <loc>/es/tag/3d-model/</loc>
+    <loc>/tag/3d-model/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tag/3d-model/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tag/3d-model/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tag/3d-model/"
-                />
   </url><url>
-    <loc>/es/tag/chronic-wounds/</loc>
+    <loc>/tag/chronic-wounds/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tag/chronic-wounds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tag/chronic-wounds/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tag/chronic-wounds/"
-                />
   </url><url>
-    <loc>/es/tag/clinical-thermal-imaging/</loc>
+    <loc>/tag/clinical-thermal-imaging/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tag/clinical-thermal-imaging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tag/clinical-thermal-imaging/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tag/clinical-thermal-imaging/"
-                />
   </url><url>
-    <loc>/es/publication/spie2021/</loc>
+    <loc>/publication/spie2021/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/publication/spie2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/publication/spie2021/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/spie2021/"
-                />
   </url><url>
-    <loc>/es/tag/low-cost-infrared-cameras/</loc>
+    <loc>/tag/low-cost-infrared-cameras/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tag/low-cost-infrared-cameras/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tag/low-cost-infrared-cameras/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tag/low-cost-infrared-cameras/"
-                />
   </url><url>
-    <loc>/es/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/publication_types/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication_types/"
-                />
   </url><url>
-    <loc>/es/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/publication/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/"
-                />
   </url><url>
-    <loc>/es/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
   </url><url>
-    <loc>/es/tag/thermography/</loc>
+    <loc>/tag/thermography/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tag/thermography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tag/thermography/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tag/thermography/"
-                />
   </url><url>
-    <loc>/es/publication/acivs2020/</loc>
+    <loc>/publication/acivs2020/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/publication/acivs2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/publication/acivs2020/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/acivs2020/"
-                />
   </url><url>
-    <loc>/es/tag/temperature-correction/</loc>
+    <loc>/tag/temperature-correction/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tag/temperature-correction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tag/temperature-correction/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tag/temperature-correction/"
-                />
   </url><url>
-    <loc>/es/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/slides/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/slides/"
-                />
   </url><url>
-    <loc>/es/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/slides/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/slides/example/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/slides/example/"
-                />
   </url><url>
-    <loc>/es/tag/deep-learning/</loc>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tag/deep-learning/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tag/deep-learning/"
-                />
   </url><url>
-    <loc>/es/project/example/</loc>
+    <loc>/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/project/example/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/project/example/"
-                />
   </url><url>
-    <loc>/es/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/"
+                href="/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/"
+                href="/project/"
                 />
   </url><url>
-    <loc>/es/admin/</loc>
+    <loc>/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/admin/"
+                href="/en/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/admin/"
+                href="/admin/"
                 />
   </url>
 </urlset>

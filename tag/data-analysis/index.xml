@@ -13,18 +13,19 @@
     </image>
     
     <item>
-      <title>Data Analysis with R (Spanish)</title>
-      <link>/teaching/estadistica-basica-con-r/</link>
+      <title>Exploratory Analysis with R (Spanish)</title>
+      <link>/teaching/basicstats_r/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/teaching/estadistica-basica-con-r/</guid>
+      <guid>/teaching/basicstats_r/</guid>
       <description>&lt;p&gt;Material:&lt;/p&gt;
+&lt;p&gt;Tutorials on how to use R for basic exploring of data:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/introR_primeros_pasos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro a R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/introR_manejo_datos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro al manejo de datos con R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuali&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar - Variables cualitativas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuanti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar - Variables Cuantitativas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_resumen_y_boxplot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar - Medidas de resumen y diagramas de caja&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracion_bivar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar - Bivariado&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuali&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Qualitative variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuanti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Quantitative variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_resumen_y_boxplot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Summary measures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracion_bivar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore - Bivariate exploration&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
