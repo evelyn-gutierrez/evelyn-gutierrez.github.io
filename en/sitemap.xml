@@ -41,84 +41,6 @@
                 href="/event/"
                 />
   </url><url>
-    <loc>/category/blogdown/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/category/blogdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/category/blogdown/"
-                />
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-  </url><url>
-    <loc>/2021/06/26/article-r/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/2021/06/26/article-r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/2021/06/26/article-r/"
-                />
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-  </url><url>
-    <loc>/category/rstudio/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/category/rstudio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/category/rstudio/"
-                />
-  </url><url>
-    <loc>/category/webpage/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/category/webpage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/category/webpage/"
-                />
-  </url><url>
     <loc>/tag/data-analysis/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -359,6 +281,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/admin/"
+                />
+  </url><url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
                 />
   </url>
 </urlset>
