@@ -73,8 +73,11 @@
     <loc>/teaching-copie/markdown_taller/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/category/blogdown/</loc>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
+    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -86,19 +89,10 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/2021/07/29/termografia/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
-  </url><url>
-    <loc>/category/termografia/</loc>
-    <lastmod>2021-07-29T19:20:39-05:00</lastmod>
-  </url><url>
-    <loc>/category/blogdown/</loc>
+    <loc>/2021/06/26/article-r/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
-    <loc>/2021/06/26/article-r/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
   </url><url>
     <loc>/category/rstudio/</loc>
@@ -332,6 +326,8 @@
                 hreflang="es"
                 href="/admin/"
                 />
+  </url><url>
+    <loc>/1/01/01/</loc>
   </url><url>
     <loc>/teaching/</loc>
   </url><url>
