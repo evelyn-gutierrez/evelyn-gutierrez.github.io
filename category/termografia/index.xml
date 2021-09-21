@@ -13,26 +13,44 @@
     </image>
     
     <item>
-      <title>Cámaras térmicas</title>
+      <title>Elección de cámaras térmicas.</title>
       <link>/2021/07/29/termografia/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/2021/07/29/termografia/</guid>
-      <description>&lt;p&gt;En este post explicaré algunos carácteristicas técnicas de las cámara térmicas para poder entender las fortalezas y limitaciones de una cámaras.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tamaño de pixel (Thermal pixel size)&lt;/li&gt;
-&lt;li&gt;Resolución (Thermal resolution).&lt;/li&gt;
-&lt;li&gt;Sensibilidad térmica. (Thermal sensitivity)&lt;/li&gt;
-&lt;li&gt;Rango de temperaturas. (Object Temperature range)&lt;/li&gt;
-&lt;li&gt;Operating temperature.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;No todas las cámaras funcionan en cualquier condición. EL rango de temepraturas nos da la idea de en qué condiciones de temperatura podemos usarlas.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Non operating temperature.&lt;/li&gt;
-&lt;li&gt;Rango espectral (Spectral range)&lt;/li&gt;
-&lt;li&gt;Frame Rate.&lt;/li&gt;
-&lt;li&gt;Focus.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Como ejemplo, tenemos la cámara termica FlirOne Pro. Cuesta aproximadamente 500&lt;/p&gt;
+      <description>&lt;p&gt;Las cámara térmicas tienen diferentes carácteristicas y deben ser tomadas en cuenta antes de compararlas. Conocer estos detalles nos permite entender las ventajas y limitaciones de una cámara.&lt;/p&gt;
+&lt;p&gt;Usualmente, las especificaciones técnicas de la cámara describirán las siguientes carácterísticas:&lt;/p&gt;
+&lt;!--
+* Tamaño de pixel (Thermal pixel size)
+* Resolución (Thermal resolution).
+* Sensibilidad térmica. (Thermal sensitivity)
+* Rango de temperaturas. (Object Temperature range)
+* Operating temperature. 
+--&gt;
+&lt;!--
+### Tamaño de pixel (Thermal pixel size): 
+--&gt;
+&lt;h3 id=&#34;resolución-thermal-resolution&#34;&gt;Resolución (Thermal Resolution):&lt;/h3&gt;
+&lt;p&gt;La cantidad de pixeles que tendrá el sensor de la cámara térmica.&lt;/p&gt;
+&lt;p&gt;A más cantidad de pixeles, es decir, mayor resolución, se tendrá mayor detalle de la temperatura.&lt;/p&gt;
+&lt;p&gt;Si se tomarán fotos desde una distancia considerable, se debe tener el cuenta que una baja resolución tendrá pocos detalles. Será necesario acercarse al objeto para tener más detalle de las temperaturas.&lt;/p&gt;
+&lt;p&gt;Algunas cámaras realizar una mejora de la resolución mediante un proceso automático.&lt;/p&gt;
+&lt;p&gt;Ejemplo: 80x60, 160x120&lt;/p&gt;
+&lt;h3 id=&#34;sensibilidad-térmica-thermal-sensitivity&#34;&gt;Sensibilidad Térmica (Thermal sensitivity):&lt;/h3&gt;
+&lt;p&gt;Este indicador nos dice cuanta diferencia de temperaturas se puede observar con la cámara. Cuanto menor sea el valor de este índicador (thermal sensitivity), mejor será la sensibilidad térmica. Entonces,  será posible detectar diferencias pequeñas de temperatura con la cámara.&lt;/p&gt;
+&lt;h3 id=&#34;rango-de-temperaturas-object-temperature-range&#34;&gt;Rango de temperaturas. (Object Temperature range)&lt;/h3&gt;
+&lt;p&gt;Indica qué temperaturas pueden ser medidas con la cámara térmica. Esto debe tenerse en cuenta especialmente si se compra una cámara para medir muy altas o muy bajas temperaturas. Tener en cuenta que la temperatura que se desea medir se encuentre en el rango.&lt;/p&gt;
+&lt;h3 id=&#34;temperatura-de-trabajo-operating-temperature&#34;&gt;Temperatura de trabajo (Operating temperature).&lt;/h3&gt;
+&lt;p&gt;No todas las cámaras funcionan en cualquier condición. El rango de temperaturas de trabajo (operating temperature) nos dice bajo que condiciones podemos usar la cámara térmica.&lt;/p&gt;
+&lt;!--
+* Non operating temperature.
+* Rango espectral (Spectral range)
+* Frame Rate.
+* Focus
+
+
+Como ejemplo, tenemos la cámara termica FlirOne Pro. Cuesta aproximadamente 500
+
+--&gt;
 </description>
     </item>
     
