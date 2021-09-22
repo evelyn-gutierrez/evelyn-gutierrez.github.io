@@ -13,6 +13,130 @@
     </image>
     
     <item>
+      <title>Computer Vision</title>
+      <link>/teaching/2_00computervisionpython/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/2_00computervisionpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estadística básica con R.</title>
+      <link>/teaching/1_01estadisticabasicar/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/1_01estadisticabasicar/</guid>
+      <description>&lt;h2 id=&#34;estadística-descriptiva-con-r&#34;&gt;Estadística descriptiva con R&lt;/h2&gt;
+&lt;p&gt;Objetivos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conocer los procedimientos estadísticos básicos utilizando R.&lt;/li&gt;
+&lt;li&gt;Utilizar gráficos y medidas de resumen para el análisis descriptivo de una variable.&lt;/li&gt;
+&lt;li&gt;Realizar un analisis exploratorio de dos variables.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Materiales:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Usando R básico: &lt;a href=&#34;https://evelyn-gutierrez.github.io/EST145/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notas EST145&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Usando R (ggplot): &lt;a href=&#34;&#34;&gt;Notas PBE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;estadística-inferencial-con-r&#34;&gt;Estadística inferencial con R&lt;/h2&gt;
+&lt;p&gt;Objetivos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conocer los principios de estimación.&lt;/li&gt;
+&lt;li&gt;Realizar estimaciones de la media y proporciones&lt;/li&gt;
+&lt;li&gt;Realizar pruebas de hipótesis para la media y proporciones e interpretar resultados.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Materiales:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Introducción&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Estimación puntual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Estimación por intervalos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Pruebas de hipótesis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimentación con R.</title>
+      <link>/teaching/1_02experimentosr/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/1_02experimentosr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Otros temas de estadística usando R</title>
+      <link>/teaching/1_09otrostemasr/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/1_09otrostemasr/</guid>
+      <description>
+&lt;script src=&#34;/teaching/1_09otrostemasr/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tratamiento-de-valores-perdidos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Tratamiento de valores perdidos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34;&gt;&lt;strong&gt;Manual para el tratamiento de datos perdidos en R&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vista Previa:&lt;/p&gt;
+&lt;iframe src=&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34; width=&#34;672&#34; height=&#34;800px&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RMarkdown.</title>
+      <link>/teaching/1_03rmarkdown/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/1_03rmarkdown/</guid>
+      <description>
+&lt;script src=&#34;/teaching/1_03rmarkdown/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;primeros-pasos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Primeros pasos&lt;/h2&gt;
+&lt;p&gt;Material:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pebiba-taller-rmd.netlify.app/&#34;&gt;Taller de RMarkdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://pebiba-taller-rmd.netlify.app/&#34; width=&#34;672&#34; height=&#34;500px&#34;&gt;
+&lt;/iframe&gt;
+&lt;!--
+## Dashboards con RMarkdown
+--&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estadística con SPSS.</title>
+      <link>/teaching/3_01basicosspss/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/3_01basicosspss/</guid>
+      <description>&lt;h2 id=&#34;primeros-pasos-con-spss&#34;&gt;Primeros pasos con SPSS&lt;/h2&gt;
+&lt;p&gt;Materiales:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Datasets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;descriptivos-con-spss&#34;&gt;Descriptivos con SPSS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Ejercicio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;distribuciones-con-spss&#34;&gt;Distribuciones con SPSS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Ejercicios&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inferencia-con-spss&#34;&gt;Inferencia con SPSS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Ejercicios&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -33,24 +157,12 @@
     </item>
     
     <item>
-      <title>Using RMarkdown (Spanish)</title>
-      <link>/teaching-copie/markdown_taller/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/teaching-copie/markdown_taller/</guid>
-      <description>&lt;p&gt;Material:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pebiba-taller-rmd.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Web page&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Introducción a Computer Vision</title>
       <link>/2021/08/21/procesamiento-de-imagenes/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/2021/08/21/procesamiento-de-imagenes/</guid>
-      <description>&lt;h2 id=&#34;enfoques&#34;&gt;Enfoques:&lt;/h2&gt;
-&lt;p&gt;Existen dos formas de realizar el procesamiento de imágenes:&lt;/p&gt;
+      <description>&lt;h1 id=&#34;enfoques&#34;&gt;Enfoques:&lt;/h1&gt;
+&lt;p&gt;Hay dos formas de realizar el procesamiento de imágenes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;De forma tradicional.&lt;/li&gt;
 &lt;/ol&gt;
@@ -58,22 +170,21 @@
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;Con Deep Learning (DL).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Para utilizar deep learning, por otro lado, es necesario tener gran cantidad de imágenes.&lt;/p&gt;
-&lt;p&gt;Con este approach, tanto las features y los modelos de clasificación son entrenables. Los modelos a entrenar son de mayor complejidad y por ello requieren más imágenes.&lt;/p&gt;
-&lt;h2 id=&#34;problemas-a-resolver-con-visión-por-ordenador&#34;&gt;Problemas a resolver con Visión por ordenador:&lt;/h2&gt;
+&lt;p&gt;Bajo este enfoque, las features y modelos de clasificación son entrenados y requiren gran cantidad de imágenes. Los modelos a entrenar son de mayor complejidad y por ello requieren más imágenes que el enfoque tradicional.&lt;/p&gt;
+&lt;h1 id=&#34;problemas-que-podemos-resolver&#34;&gt;Problemas que podemos resolver:&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;Detección y clasificación:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Por ejemplo: detección de un objeto, de una clase de objeto, o de contornos. En este caso, es enfoque más utilizado es usando Deep Learning.&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Analisis de movimiento:&lt;/li&gt;
+&lt;li&gt;Análisis de movimiento:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Optical flow y object tracking se encuentran en esta categoría.&lt;/p&gt;
 &lt;!--
 https://nanonets.com/blog/optical-flow/
 --&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Reconstrucción de escena.&lt;/li&gt;
+&lt;li&gt;Reconstrucción de escena. (Scene reconstruction)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Reconstruir el la forma y aspecto en 3D de un objeto a partir de imágenes. También se llama 3D reconstruction.&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
@@ -85,7 +196,7 @@ https://nanonets.com/blog/optical-flow/
 &lt;li&gt;Debluring, o&lt;/li&gt;
 &lt;li&gt;Aumentar la resolución de imágenes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;librerías-python&#34;&gt;Librerías (Python)&lt;/h2&gt;
+&lt;h1 id=&#34;librerías-python&#34;&gt;Librerías (Python)&lt;/h1&gt;
 &lt;p&gt;Librerías que podemos utilizar para comenzar:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -113,7 +224,7 @@ https://nanonets.com/blog/optical-flow/
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;aprender-más&#34;&gt;Aprender más:&lt;/h2&gt;
+&lt;h1 id=&#34;aprender-más&#34;&gt;Aprender más:&lt;/h1&gt;
 &lt;p&gt;Para aprender más sobre computer visión, se puede leer los siguientes libros:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -187,39 +298,27 @@ Como ejemplo, tenemos la cámara termica FlirOne Pro. Cuesta aproximadamente 500
     </item>
     
     <item>
-      <title>Análisis exploratorio básico con R (Spanish)</title>
-      <link>/teaching-copie/basicstats_r/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/teaching-copie/basicstats_r/</guid>
-      <description>&lt;p&gt;Material:&lt;/p&gt;
-&lt;p&gt;Tutorials on how to use R for basic exploring of data:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/introR_primeros_pasos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro a R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/introR_manejo_datos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro al manejo de datos con R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuali&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar una variable cualitativa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_cuanti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar una variable cuantitativa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracionR_resumen_y_boxplot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar con medidas de resumen y gráficos de caja&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rpubs.com/Elyn1017/exploracion_bivar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explorar dos variables&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Combined thermal and color 3D model for wound evaluation from handheld devices</title>
       <link>/publication/spie2021/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/publication/spie2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
 </description>
     </item>
     
@@ -228,17 +327,23 @@ Como ejemplo, tenemos la cámara termica FlirOne Pro. Cuesta aproximadamente 500
       <link>/publication/acivs2020/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/acivs2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
 </description>
     </item>
     
@@ -390,54 +495,6 @@ Three
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Enseñanza</title>
-      <link>/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching/</guid>
-      <description>
-&lt;script src=&#34;/teaching/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/EST145/&#34;&gt;Estádistica Básica con R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pebiba-taller-rmd.netlify.app/&#34;&gt;Taller de RMarkdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos&#34;&gt;Tratamiento de datos perdidos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Untitled</title>
-      <link>/teaching-copie/tratamiento_perdidos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching-copie/tratamiento_perdidos/</guid>
-      <description>
-&lt;script src=&#34;/teaching-copie/tratamiento_perdidos/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;R Markdown&lt;/h2&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Including Plots&lt;/h2&gt;
-&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/teaching-copie/tratamiento_perdidos/index_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
-&lt;/div&gt;
-</description>
     </item>
     
   </channel>

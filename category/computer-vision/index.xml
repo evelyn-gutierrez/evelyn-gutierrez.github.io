@@ -17,8 +17,8 @@
       <link>/2021/08/21/procesamiento-de-imagenes/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/2021/08/21/procesamiento-de-imagenes/</guid>
-      <description>&lt;h2 id=&#34;enfoques&#34;&gt;Enfoques:&lt;/h2&gt;
-&lt;p&gt;Existen dos formas de realizar el procesamiento de imágenes:&lt;/p&gt;
+      <description>&lt;h1 id=&#34;enfoques&#34;&gt;Enfoques:&lt;/h1&gt;
+&lt;p&gt;Hay dos formas de realizar el procesamiento de imágenes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;De forma tradicional.&lt;/li&gt;
 &lt;/ol&gt;
@@ -26,22 +26,21 @@
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;Con Deep Learning (DL).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Para utilizar deep learning, por otro lado, es necesario tener gran cantidad de imágenes.&lt;/p&gt;
-&lt;p&gt;Con este approach, tanto las features y los modelos de clasificación son entrenables. Los modelos a entrenar son de mayor complejidad y por ello requieren más imágenes.&lt;/p&gt;
-&lt;h2 id=&#34;problemas-a-resolver-con-visión-por-ordenador&#34;&gt;Problemas a resolver con Visión por ordenador:&lt;/h2&gt;
+&lt;p&gt;Bajo este enfoque, las features y modelos de clasificación son entrenados y requiren gran cantidad de imágenes. Los modelos a entrenar son de mayor complejidad y por ello requieren más imágenes que el enfoque tradicional.&lt;/p&gt;
+&lt;h1 id=&#34;problemas-que-podemos-resolver&#34;&gt;Problemas que podemos resolver:&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;Detección y clasificación:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Por ejemplo: detección de un objeto, de una clase de objeto, o de contornos. En este caso, es enfoque más utilizado es usando Deep Learning.&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Analisis de movimiento:&lt;/li&gt;
+&lt;li&gt;Análisis de movimiento:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Optical flow y object tracking se encuentran en esta categoría.&lt;/p&gt;
 &lt;!--
 https://nanonets.com/blog/optical-flow/
 --&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Reconstrucción de escena.&lt;/li&gt;
+&lt;li&gt;Reconstrucción de escena. (Scene reconstruction)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Reconstruir el la forma y aspecto en 3D de un objeto a partir de imágenes. También se llama 3D reconstruction.&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
@@ -53,7 +52,7 @@ https://nanonets.com/blog/optical-flow/
 &lt;li&gt;Debluring, o&lt;/li&gt;
 &lt;li&gt;Aumentar la resolución de imágenes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;librerías-python&#34;&gt;Librerías (Python)&lt;/h2&gt;
+&lt;h1 id=&#34;librerías-python&#34;&gt;Librerías (Python)&lt;/h1&gt;
 &lt;p&gt;Librerías que podemos utilizar para comenzar:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -81,7 +80,7 @@ https://nanonets.com/blog/optical-flow/
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;aprender-más&#34;&gt;Aprender más:&lt;/h2&gt;
+&lt;h1 id=&#34;aprender-más&#34;&gt;Aprender más:&lt;/h1&gt;
 &lt;p&gt;Para aprender más sobre computer visión, se puede leer los siguientes libros:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

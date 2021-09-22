@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/teaching/2_00computervisionpython/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/1_01estadisticabasicar/</loc>
+    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/1_02experimentosr/</loc>
+    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/1_09otrostemasr/</loc>
+    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/1_03rmarkdown/</loc>
+    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/3_01basicosspss/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -41,37 +59,18 @@
                 href="/event/"
                 />
   </url><url>
-    <loc>/tag/rmarkdown/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <loc>/teaching/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/rmarkdown/"
+                href="/en/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tag/rmarkdown/"
+                href="/teaching/"
                 />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-  </url><url>
-    <loc>/teaching-copie/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/teaching-copie/markdown_taller/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/basicos/</loc>
     <lastmod>2021-08-21T19:20:39-05:00</lastmod>
@@ -101,6 +100,19 @@
     <loc>/post/</loc>
     <lastmod>2021-08-21T19:20:39-05:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-21T19:20:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url><url>
     <loc>/2021/07/29/termografia/</loc>
     <lastmod>2021-07-29T19:20:39-05:00</lastmod>
   </url><url>
@@ -118,12 +130,6 @@
   </url><url>
     <loc>/category/webpage/</loc>
     <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-  </url><url>
-    <loc>/tag/analisis-de-datos/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/teaching-copie/basicstats_r/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
@@ -344,21 +350,5 @@
                 hreflang="es"
                 href="/admin/"
                 />
-  </url><url>
-    <loc>/teaching/</loc>
-  </url><url>
-    <loc>/teaching/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/teaching/"
-                />
-  </url><url>
-    <loc>/teaching-copie/tratamiento_perdidos/</loc>
   </url>
 </urlset>
