@@ -13,6 +13,34 @@
     </image>
     
     <item>
+      <title>Missing values</title>
+      <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/1_missingvalues/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/1_missingvalues/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A course on handling missing values using R.&lt;/p&gt;
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction.&lt;/li&gt;
+&lt;li&gt;Exploration.&lt;/li&gt;
+&lt;li&gt;Univar imputation.&lt;/li&gt;
+&lt;li&gt;Multivar imputation.&lt;/li&gt;
+&lt;li&gt;Multiple imputation.&lt;/li&gt;
+&lt;li&gt;Modeling with missing data.&lt;/li&gt;
+&lt;li&gt;Excersices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Link to materials&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;!--
+```{r echo=FALSE}
+knitr::include_url(&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34;, height = &#34;800px&#34;)
+```
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Imbalanced data</title>
       <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/2_imbalanceddata/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
@@ -58,34 +86,6 @@ knitr::include_url(&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&
 --&gt;
 &lt;!--
 ## Bibliography
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Missing values</title>
-      <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/1_missingvalues/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/1_missingvalues/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;A course on handling missing values using R.&lt;/p&gt;
-&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Introduction.&lt;/li&gt;
-&lt;li&gt;Exploration.&lt;/li&gt;
-&lt;li&gt;Univar imputation.&lt;/li&gt;
-&lt;li&gt;Multivar imputation.&lt;/li&gt;
-&lt;li&gt;Multiple imputation.&lt;/li&gt;
-&lt;li&gt;Modeling with missing data.&lt;/li&gt;
-&lt;li&gt;Excersices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Link to materials&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Preview:&lt;/p&gt;
-&lt;!--
-```{r echo=FALSE}
-knitr::include_url(&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34;, height = &#34;800px&#34;)
-```
 --&gt;
 </description>
     </item>
