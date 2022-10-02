@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RMarkdown, Workshop, Material | Evelyn Gutierrez</title>
+    <link>https://evelyn-gutierrez.github.io/tag/rmarkdown-workshop-material/</link>
+      <atom:link href="https://evelyn-gutierrez.github.io/tag/rmarkdown-workshop-material/index.xml" rel="self" type="application/rss+xml" />
+    <description>RMarkdown, Workshop, Material</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evelyn-gutierrez.github.io/media/icon_hud8aa4df9af90ef25b8d13fab6e8d332b_203016_512x512_fill_lanczos_center_2.png</url>
+      <title>RMarkdown, Workshop, Material</title>
+      <link>https://evelyn-gutierrez.github.io/tag/rmarkdown-workshop-material/</link>
+    </image>
+    
+    <item>
+      <title>Workshop - RMarkdown Basics (Spanish)</title>
+      <link>https://evelyn-gutierrez.github.io/teaching/markdown_basics_workshop/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/teaching/markdown_basics_workshop/</guid>
+      <description>
+
+
+&lt;p&gt;Course Slide and Materials:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pebiba-taller-rmd.netlify.app/&#34;&gt;Link to materials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://pebiba-taller-rmd.netlify.app/&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

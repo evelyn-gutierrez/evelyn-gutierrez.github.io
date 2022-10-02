@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced Analytics | Evelyn Gutierrez</title>
+    <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/</link>
+      <atom:link href="https://evelyn-gutierrez.github.io/teaching/advanced-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Advanced Analytics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evelyn-gutierrez.github.io/media/icon_hud8aa4df9af90ef25b8d13fab6e8d332b_203016_512x512_fill_lanczos_center_2.png</url>
+      <title>Advanced Analytics</title>
+      <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/</link>
+    </image>
+    
+    <item>
+      <title>Imbalanced data</title>
+      <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/2_imbalanceddata/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/2_imbalanceddata/</guid>
+      <description>&lt;h2 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+```{r echo=FALSE}
+knitr::include_url(&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34;, height = &#34;800px&#34;)
+```
+--&gt;
+&lt;!--
+## Bibliography
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/3_timeseries/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/3_timeseries/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Practical course on using R for time series analysis and forecasting.&lt;/p&gt;
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Exploration&lt;/li&gt;
+&lt;li&gt;Prediction: Simple Methods and using Regression.&lt;/li&gt;
+&lt;li&gt;TS Decomposition&lt;/li&gt;
+&lt;li&gt;Exponential Smoothing&lt;/li&gt;
+&lt;li&gt;ARIMA&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/evelyn-gutierrez/Time-Series-with-R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Slides and codes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+```{r echo=FALSE}
+knitr::include_url(&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34;, height = &#34;800px&#34;)
+```
+--&gt;
+&lt;!--
+## Bibliography
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Missing values</title>
+      <link>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/1_missingvalues/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/1_missingvalues/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A course on handling missing values using R.&lt;/p&gt;
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction.&lt;/li&gt;
+&lt;li&gt;Exploration.&lt;/li&gt;
+&lt;li&gt;Univar imputation.&lt;/li&gt;
+&lt;li&gt;Multivar imputation.&lt;/li&gt;
+&lt;li&gt;Multiple imputation.&lt;/li&gt;
+&lt;li&gt;Modeling with missing data.&lt;/li&gt;
+&lt;li&gt;Excersices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Link to materials&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;!--
+```{r echo=FALSE}
+knitr::include_url(&#34;https://evelyn-gutierrez.github.io/TratamientoPerdidos/&#34;, height = &#34;800px&#34;)
+```
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
