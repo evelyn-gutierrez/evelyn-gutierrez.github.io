@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Analysis | Evelyn Gutierrez</title>
+    <title>Data analysis | Evelyn Gutierrez</title>
     <link>https://evelyn-gutierrez.github.io/tag/data-analysis/</link>
       <atom:link href="https://evelyn-gutierrez.github.io/tag/data-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Data Analysis</description>
+    <description>Data analysis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evelyn-gutierrez.github.io/media/icon_hud8aa4df9af90ef25b8d13fab6e8d332b_203016_512x512_fill_lanczos_center_2.png</url>
-      <title>Data Analysis</title>
+      <title>Data analysis</title>
       <link>https://evelyn-gutierrez.github.io/tag/data-analysis/</link>
     </image>
     
     <item>
       <title>Exploratory Analysis with R (Spanish)</title>
-      <link>https://evelyn-gutierrez.github.io/teaching_draf/basicstats_r/</link>
+      <link>https://evelyn-gutierrez.github.io/_teaching_draf/basicstats_r/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/teaching_draf/basicstats_r/</guid>
+      <guid>https://evelyn-gutierrez.github.io/_teaching_draf/basicstats_r/</guid>
       <description>&lt;p&gt;Material:&lt;/p&gt;
 &lt;p&gt;Tutorials on how to use R for basic exploring of data:&lt;/p&gt;
 &lt;ol&gt;
