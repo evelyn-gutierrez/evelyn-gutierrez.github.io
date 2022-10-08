@@ -1,0 +1,52 @@
+---
+# Page title
+title: RMarkdown
+
+# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
+linktitle: Rmarkdown
+
+# Page summary for search engines.
+#summary: Courses on Rmarkdown
+
+# Date page published
+date: 2021-04-01
+
+# Book page type (do not modify).
+type: book
+toc: true
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 20
+---
+
+## Basics 
+
+### Content
+
+The starting blocks for using RMarkdown. (Material in Spanish) 
+
+
+### Materials
+
+[Slides](https://pebiba-taller-rmd.netlify.app/)
+
+[Material](https://pebiba-taller-rmd.netlify.app/intro_doc.html)
+
+```{r, echo=FALSE}
+knitr::include_url("https://pebiba-taller-rmd.netlify.app/")
+```
+ 
+
+## Going Further
+
+
+### Materials
+
+[Material](https://pebiba-taller-rmd.netlify.app/personalizar.html)
+
+
+```{r, echo=FALSE}
+knitr::include_url("https://pebiba-taller-rmd.netlify.app/personalizar.html")
+```
+ 
+

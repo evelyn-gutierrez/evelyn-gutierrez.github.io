@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling | Evelyn Gutierrez</title>
+    <link>https://evelyn-gutierrez.github.io/tag/modeling/</link>
+      <atom:link href="https://evelyn-gutierrez.github.io/tag/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evelyn-gutierrez.github.io/media/icon_hud8aa4df9af90ef25b8d13fab6e8d332b_203016_512x512_fill_lanczos_center_2.png</url>
+      <title>Modeling</title>
+      <link>https://evelyn-gutierrez.github.io/tag/modeling/</link>
+    </image>
+    
+    <item>
+      <title>Estudio de la frecuencia de la Salida de Buses para disminuir el tiempo de espera a un bus - Simulacion del Metropolitano</title>
+      <link>https://evelyn-gutierrez.github.io/project/example/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/project/example/</guid>
+      <description>&lt;p&gt;Estudio de la frecuencia de salida de buses utilizando teoría de colas.&lt;/p&gt;
+&lt;p&gt;2do Puesto en el consurso de proyectos del &amp;ldquo;I Congreso Latinoamericano de Estudiantes de Estadística y XIII Congreso Nacional de estudiantes de Estadística realizado en la Universidad Nacional San Antonio de Abad del Cuzco&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

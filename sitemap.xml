@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evelyn-gutierrez.github.io/teaching/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://evelyn-gutierrez.github.io/_teaching_draf/1_01estadisticabasicar/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,23 +17,17 @@
     <loc>https://evelyn-gutierrez.github.io/_teaching_draf/3_01basicosspss/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/teaching/basicstats/</loc>
+    <loc>https://evelyn-gutierrez.github.io/teaching_material/basicstats/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/1_missingvalues/</loc>
+    <loc>https://evelyn-gutierrez.github.io/teaching_material/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/teaching/rmarkdown/</loc>
+    <loc>https://evelyn-gutierrez.github.io/teaching_material/rmarkdown/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/2_imbalanceddata/</loc>
-    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/</loc>
+    <loc>https://evelyn-gutierrez.github.io/teaching_material/advanced-analytics/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evelyn-gutierrez.github.io/teaching/advanced-analytics/3_timeseries/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evelyn-gutierrez.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -161,14 +152,17 @@
     <loc>https://evelyn-gutierrez.github.io/_slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/_project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://evelyn-gutierrez.github.io/contact/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://evelyn-gutierrez.github.io/teaching/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/_project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://evelyn-gutierrez.github.io/project/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/publication_landing/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evelyn-gutierrez.github.io/admin/</loc>
   </url><url>
