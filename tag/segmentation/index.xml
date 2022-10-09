@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Evelyn Gutierrez</title>
-    <link>https://evelyn-gutierrez.github.io/tag/deep-learning/</link>
-      <atom:link href="https://evelyn-gutierrez.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
+    <title>Segmentation | Evelyn Gutierrez</title>
+    <link>https://evelyn-gutierrez.github.io/tag/segmentation/</link>
+      <atom:link href="https://evelyn-gutierrez.github.io/tag/segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Segmentation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evelyn-gutierrez.github.io/media/icon_hud8aa4df9af90ef25b8d13fab6e8d332b_203016_512x512_fill_lanczos_center_2.png</url>
-      <title>Deep Learning</title>
-      <link>https://evelyn-gutierrez.github.io/tag/deep-learning/</link>
+      <title>Segmentation</title>
+      <link>https://evelyn-gutierrez.github.io/tag/segmentation/</link>
     </image>
     
     <item>

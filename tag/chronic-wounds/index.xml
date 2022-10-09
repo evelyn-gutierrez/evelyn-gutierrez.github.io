@@ -5,7 +5,7 @@
     <link>https://evelyn-gutierrez.github.io/tag/chronic-wounds/</link>
       <atom:link href="https://evelyn-gutierrez.github.io/tag/chronic-wounds/index.xml" rel="self" type="application/rss+xml" />
     <description>Chronic Wounds</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evelyn-gutierrez.github.io/media/icon_hud8aa4df9af90ef25b8d13fab6e8d332b_203016_512x512_fill_lanczos_center_2.png</url>
       <title>Chronic Wounds</title>
@@ -13,21 +13,51 @@
     </image>
     
     <item>
-      <title>Multimodal and Multiview Wound Monitoring with Mobile Devices</title>
-      <link>https://evelyn-gutierrez.github.io/publication/mdpi2022/</link>
-      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/publication/mdpi2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Multi-View Data Augmentation to Improve Wound Segmentation on 3D Surface Model by Deep Learning</title>
+      <link>https://evelyn-gutierrez.github.io/publication/ieee2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/ieee2022/</guid>
+      <description>&lt;!--
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal and Multiview Wound Monitoring with Mobile Devices</title>
+      <link>https://evelyn-gutierrez.github.io/publication/mdpi2022/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/mdpi2022/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -36,17 +66,23 @@
       <link>https://evelyn-gutierrez.github.io/publication/spie2021/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://evelyn-gutierrez.github.io/publication/spie2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!--
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     

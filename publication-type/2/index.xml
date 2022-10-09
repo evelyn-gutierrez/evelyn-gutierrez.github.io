@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Evelyn Gutierrez</title>
-    <link>https://evelyn-gutierrez.github.io/publication-type/1/</link>
-      <atom:link href="https://evelyn-gutierrez.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <title>2 | Evelyn Gutierrez</title>
+    <link>https://evelyn-gutierrez.github.io/publication-type/2/</link>
+      <atom:link href="https://evelyn-gutierrez.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Evelyn Gutierrez</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evelyn-gutierrez.github.io/media/icon_hud8aa4df9af90ef25b8d13fab6e8d332b_203016_512x512_fill_lanczos_center_2.png</url>
-      <title>1</title>
-      <link>https://evelyn-gutierrez.github.io/publication-type/1/</link>
+      <title>2</title>
+      <link>https://evelyn-gutierrez.github.io/publication-type/2/</link>
     </image>
     
     <item>
-      <title>Combined thermal and color 3D model for wound evaluation from handheld devices</title>
-      <link>https://evelyn-gutierrez.github.io/publication/spie2021/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/publication/spie2021/</guid>
+      <title>Multi-View Data Augmentation to Improve Wound Segmentation on 3D Surface Model by Deep Learning</title>
+      <link>https://evelyn-gutierrez.github.io/publication/ieee2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/ieee2022/</guid>
       <description>&lt;!--
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -38,10 +38,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Correction of Temperature Estimated from a Low-Cost Handheld Infrared Camera for Clinical Monitoring</title>
-      <link>https://evelyn-gutierrez.github.io/publication/acivs2020/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/publication/acivs2020/</guid>
+      <title>Multimodal and Multiview Wound Monitoring with Mobile Devices</title>
+      <link>https://evelyn-gutierrez.github.io/publication/mdpi2022/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/mdpi2022/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -57,8 +57,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;/div&gt;
 
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
