@@ -1,0 +1,37 @@
+---
+title: Undergraduate Courses
+subtitle: Courses taught as [part-time lecturer](https://www.pucp.edu.pe/profesor/evelyn-gutierrez-ayala) at the [Pontifical Catholic University of Peru](https://www.pucp.edu.pe/)
+linktitle: Teaching
+type: book
+date: 2021-08-01
+tags:
+- Statistics
+ 
+# links:
+# - icon: files
+#   icon_pack: fab
+#   name: Start
+#   url: https://rpubs.com/Elyn1017/introR_manejo_datos
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
+
+weight: 20
+
+design:
+  # Use a 1-column layout
+  columns: "1"
+  
+---
+
++ 2021 to 2022:
+    - (1IBM18) Biomedical Engineering Professional Development.
+    - (1EST12) Applied Statistics.
+    - (EST103) Statistics - General Studies in Humanities.
+    - (EST145) Statistics - General Studies in Science.
++ 2017 to 2020:
+    - (1IBM18) Biomedical Engineering Professional Development.
+    - (EST218) Statistics for Engineering.
+    - (EST103) Statistics.
+    - (1INF07) Numerical Experimentation.

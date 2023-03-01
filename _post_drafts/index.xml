@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_post_drafts | Evelyn Gutierrez</title>
+    <link>https://evelyn-gutierrez.github.io/_post_drafts/</link>
+      <atom:link href="https://evelyn-gutierrez.github.io/_post_drafts/index.xml" rel="self" type="application/rss+xml" />
+    <description>_post_drafts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Evelyn Gutierrez</copyright><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evelyn-gutierrez.github.io/media/icon_hue5861e7b09946cfd99ee580f73e86465_74937_512x512_fill_lanczos_center_2.png</url>
+      <title>_post_drafts</title>
+      <link>https://evelyn-gutierrez.github.io/_post_drafts/</link>
+    </image>
+    
+    <item>
+      <title>Baby&#39;s 3D model using SfM.</title>
+      <link>https://evelyn-gutierrez.github.io/_post_drafts/gitffrom3dmodel/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/_post_drafts/gitffrom3dmodel/</guid>
+      <description>&lt;h2 id=&#34;a-babys-3d-model-using-structure-from-motion-sfm&#34;&gt;A baby&amp;rsquo;s 3D model using Structure From Motion (SfM).&lt;/h2&gt;
+&lt;p&gt;Following a photo session of a baby, I made the 3D reconstruction to create a nice gift for the mother.&lt;/p&gt;
+&lt;p&gt;The input was a 14 seconds video from which 32 frames (480x848px) were extracted to create the 3D model with Structure From Motion.&lt;/p&gt;
+&lt;p&gt;I made the reconstruction using two free 3d reconstruction software:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meshroom&lt;/li&gt;
+&lt;li&gt;3DF Zephyr (free version)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I usually use Meshroom but I read that you also get good results with 3DFlow Zephyr, so I did the reconstruction and chose the better one.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Meshroom&lt;/strong&gt; took betwen 25 to 30 minutes with default settings and high sensitivity for feature extraction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3DFlow Zephyr&lt;/strong&gt; took about 5 to 7 minutes. I used the default settings,  higher and ultra sensitivity for feature extraction and dense reconstruction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The point cloud density was higher with 3DFlow Zephyr (~20K points 3DFlow Zephyr vs ~16K points with Meshroom), however, I found qualitatively better results with Meshroom:  The baby&amp;rsquo;s forehead appears sunken in the 3DFlow Zephyr reconstruction. In contrast, Meshroom showed more solidity in the reconstruction in this case, and the forehead did not become sunken. This problem was due to lighting changes in this area during video capture.&lt;/p&gt;
+&lt;p&gt;Finally I removed some background object manually to have the final 3D model and added a Laplacian smoothing.&lt;/p&gt;
+&lt;p&gt;The result was uploaded to &lt;strong&gt;SketchFab&lt;/strong&gt; which allows quick visualization and interaction. Here is the result:&lt;/p&gt;
+&lt;div class=&#34;sketchfab-embed-wrapper&#34;&gt; &lt;iframe title=&#34;Bb&#34; frameborder=&#34;0&#34; allowfullscreen mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; allow=&#34;autoplay; fullscreen; xr-spatial-tracking&#34; xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://sketchfab.com/models/a9524cbb6dcf400495e8673215a43ad9/embed?autostart=1&#34;&gt; &lt;/iframe&gt; &lt;p style=&#34;font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;&#34;&gt; &lt;a href=&#34;https://sketchfab.com/3d-models/bb-a9524cbb6dcf400495e8673215a43ad9?utm_medium=embed&amp;utm_campaign=share-popup&amp;utm_content=a9524cbb6dcf400495e8673215a43ad9&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold; color: #1CAAD9;&#34;&gt; Baby Gift &lt;/a&gt; by &lt;a href=&#34;https://sketchfab.com/egutierreza?utm_medium=embed&amp;utm_campaign=share-popup&amp;utm_content=a9524cbb6dcf400495e8673215a43ad9&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold; color: #1CAAD9;&#34;&gt; egutierreza &lt;/a&gt; on &lt;a href=&#34;https://sketchfab.com?utm_medium=embed&amp;utm_campaign=share-popup&amp;utm_content=a9524cbb6dcf400495e8673215a43ad9&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold; color: #1CAAD9;&#34;&gt;Sketchfab&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;This model was later 3D printed and made a nice gift for the mother.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seguimiento de heridas.</title>
+      <link>https://evelyn-gutierrez.github.io/_post_drafts/heridas-cronicas/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/_post_drafts/heridas-cronicas/</guid>
+      <description>&lt;h2 id=&#34;el-problema-de-las-heridas-crónicas&#34;&gt;El problema de las heridas crónicas.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Son muchos casos. En USA se estima que son 6.5MM. &lt;!--No se sabe en Perú?--&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Costo para la salud publica: En EEUU se estima que es más de $20 billones por año.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tipos más comunes: úlceras en la pierna, heridas por presión, y heridas por pie diabetico.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;|Hay &amp;ldquo;cellular senescence&amp;rdquo;: Las celulas dejas de regerenrarse, y se incrementa el riesgo de infección. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4528992/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frykberg RG, Banks J. Challenges in the treatment of
+chronic wounds. Adv Wound Care 2015;4:560–582&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;evaluación-de-las-heridas--vs-seguimiento-de-la-herida&#34;&gt;Evaluación de las heridas  vs Seguimiento de la herida&lt;/h2&gt;
+&lt;p&gt;La evaluación de la herida se realiza en un momento.
+El seguimiento de la herida se realiza observando los cambios en el tiempo de la herida.&lt;/p&gt;
+&lt;!--  Fuete? --&gt;
+&lt;h2 id=&#34;evaluación-de-heridas&#34;&gt;Evaluación de heridas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Por evaluación observacional: Se observa las caracteristicas de la imagen y se apunta su estado. Puede realizarse usando imágenes digitales.
+&lt;ul&gt;
+&lt;li&gt;Subjetivo: Depende del expertise del medico tratante.&lt;/li&gt;
+&lt;li&gt;Cualitativo: Se anotan lo observado.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Microbiológico y Bioquimico:
+&lt;ul&gt;
+&lt;li&gt;Se analizan muestras de tejido/liquido:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Toma tiempo: 3-5 días.&lt;/li&gt;
+&lt;li&gt;Invasivo.&lt;/li&gt;
+&lt;li&gt;Puede causar daño.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Tienen potencial predictivo. Fuente: &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19181156/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wound exudate: an influential factor in healing&lt;/a&gt; y &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14685963/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wound exudate: composition and functions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;evaluación-de-una-herida&#34;&gt;Evaluación de una herida.&lt;/h2&gt;
+&lt;p&gt;Cada herida tiene una etiología y se trata segun la etiologia, como si fuera una enfermedad diferente &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/books/NBK482198/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wound assessmnet&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cómo
+&lt;ul&gt;
+&lt;li&gt;¿Cómo se hizo la herida?&lt;/li&gt;
+&lt;li&gt;Si es crónica, está abierta? (Se debe a un causa?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Donde:
+&lt;ul&gt;
+&lt;li&gt;Área dificil de mantener limpia?&lt;/li&gt;
+&lt;li&gt;Area de alta tension?&lt;/li&gt;
+&lt;li&gt;Cerca a una estructura vital o arteria mayor?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cuando
+&lt;ul&gt;
+&lt;li&gt;Hace cuanto tiempo?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Qué
+&lt;ul&gt;
+&lt;li&gt;Qué esta comprometido? Epidermis, dermis, subcutaneo, musculo, hueso, arterias, nervios&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Estadío (I-IV)&lt;/li&gt;
+&lt;li&gt;Qué comorbilidades tiene el paciente.&lt;/li&gt;
+&lt;li&gt;Factores sociales que impidan la mejora.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pone su vida en peligro?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Razones por las heridas cronicas (underliying issues):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arterial: Si hay fallo arterial, las heridas no sanan.&lt;/li&gt;
+&lt;li&gt;Venoso: Se acumula fibrina y tiene efectos negativos.&lt;/li&gt;
+&lt;li&gt;Infeción: CElulitis o osteomielitis. No sanará.&lt;/li&gt;
+&lt;li&gt;Presion&lt;/li&gt;
+&lt;li&gt;Oncológico&lt;/li&gt;
+&lt;li&gt;Sistemico: Nivel de glucosa no ayuda. &lt;strong&gt;Microvascular disease&lt;/strong&gt;.
+_ Nutricion.&lt;/li&gt;
+&lt;li&gt;Farmacologico&lt;/li&gt;
+&lt;li&gt;Psicosocial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;qué-interesa-medir-en-una-herida&#34;&gt;¿Qué interesa medir en una herida?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Stage (Estado de la herida)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vascularización periferica&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Con Computer Tomography&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Para saber si hay enfermedad arterial periférica&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para el tratamiento, Principio TIME: desbridamiento del tejido, control de la infección, equilibrio de la humedad y bordes de la herida.&lt;/p&gt;
+&lt;p&gt;Hay muchos factores para evaluar una herida. Es importante conocer la naturaleza de la herida y factores subjacentes. Estos ayudarán a  una elección correcta del tratamiento.&lt;/p&gt;
+&lt;h2 id=&#34;cómo-ayuda-la-termografía&#34;&gt;¿Cómo ayuda la termografía?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La termografía ayuda a medir el flujo de sangre. Hay estudios de reliability y validez con cámara de bajo costo. Fuente: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217024/#:~:text=Infrared%20thermography%20measures%20the%20temperature,measuring%20burn%20wound%20healing%20potential.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Validity of thermography for measuring burn wound healing potential&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Puede medir:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Extensión de la herida&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Estado de la herida. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28817451/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chanmugam A, Langemo D, Thomason K, et al.
+Relative temperature maximum in wound infection and inflammation as compared with a control subject using long-wave infrared thermography. Adv Skin Wound Care 2017;30:406– 414&lt;/a&gt; (6 heridas)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inflamacion sin infección (wound vs normal skin dif) 1.1 ~ 1.2°&lt;/li&gt;
+&lt;li&gt;Infección: Herida esta caliente (+4 o 5° mas que lo normal)&lt;/li&gt;
+&lt;li&gt;Puede identificar recuperación de infección (pasan de alta diferencia de temperatura con el tejido normal a aprox[0.8-1.1])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Infección superficial o profunda no visible &lt;a href=&#34;https://journals.lww.com/aswcjournal/Fulltext/2020/04000/Associations_Among_Skin_Surface_pH,_Temperature,.3.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estudio con 100 pacientes &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;En diabeticos, puede detectr pie ischemico (frio) o neuropático (caliente). Serbu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mayor temperatura tienen lasw heridas que van sanando? Estudio peque con ulceras por presión. Abreus Chavez.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La tempreatura puede aectar funciones celulares: reacciones chimicas, fagocitosis, mitosisy locomosicón.  &lt;a href=&#34;https://www.amazon.fr/Acute-Chronic-Wounds-Management-Concepts/dp/0323316212&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book: Acute and Chronic wounds: management concepts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para medir la perfusion. (Lo cual es util para la oxigenación y transporte de nutrientes)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;qué-miden-otras-tecnicas&#34;&gt;¿Qué miden otras tecnicas?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LDI: Laser Dopler Imaging
+&lt;ul&gt;
+&lt;li&gt;Usa Low Intensity laser beam.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CT Computer thermogaphy
+&lt;ul&gt;
+&lt;li&gt;Microvascular perfusion: Blood flow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Imagenes digitales (Cost efective)
+&lt;ul&gt;
+&lt;li&gt;Color: Para identificar el estado de la herida (Stage 1-4)&lt;/li&gt;
+&lt;li&gt;Sin embargo, necesita corrroborarse con resutlados bioquimicos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HSI: HIgh Spectral Imaging:
+&lt;ul&gt;
+&lt;li&gt;3D data cube puede cuantificar:
+&lt;ul&gt;
+&lt;li&gt;Oxigenación de la herida (Oxyhemoglobin, deoxyhemoglobin, blood oxygen saturation)&lt;/li&gt;
+&lt;li&gt;Se puede crear mapas de oxigenación: potencial de mejroa en la herida.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;10.1089@Ywound.2019.0967&#34;&gt;10.1089@Ywound.2019.0967&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Biblio:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32003952/#:~:text=Physical%20examination%20alone%20can%20often,of%20the%20ankle%2Dbrachial%20index.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chronic wound: Evaluation and management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a Computer Vision</title>
+      <link>https://evelyn-gutierrez.github.io/_post_drafts/procesamiento-de-imagenes/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/_post_drafts/procesamiento-de-imagenes/</guid>
+      <description>&lt;h1 id=&#34;enfoques&#34;&gt;Enfoques:&lt;/h1&gt;
+&lt;p&gt;Hay dos formas de realizar el procesamiento de imágenes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;De forma tradicional.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;De forma tradicional, obtenemos caracteristicas de la imágen mediante processos manuales, y luego entrenamos modelos simples de clasificación.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Con Deep Learning (DL).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Bajo este enfoque, las features y modelos de clasificación son entrenados y requiren gran cantidad de imágenes. Los modelos a entrenar son de mayor complejidad y por ello requieren más imágenes que el enfoque tradicional.&lt;/p&gt;
+&lt;h1 id=&#34;problemas-que-podemos-resolver&#34;&gt;Problemas que podemos resolver:&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Detección y clasificación:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Por ejemplo: detección de un objeto, de una clase de objeto, o de contornos. En este caso, es enfoque más utilizado es usando Deep Learning.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Análisis de movimiento:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Optical flow y object tracking se encuentran en esta categoría.&lt;/p&gt;
+&lt;!--
+https://nanonets.com/blog/optical-flow/
+--&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Reconstrucción de escena. (Scene reconstruction)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Reconstruir el la forma y aspecto en 3D de un objeto a partir de imágenes. También se llama 3D reconstruction.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Restauración:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Aquí se realizan procedimientos para mejorar las imágenes como estos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reducir el ruido de las imágenes,&lt;/li&gt;
+&lt;li&gt;Debluring, o&lt;/li&gt;
+&lt;li&gt;Aumentar la resolución de imágenes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;librerías-python&#34;&gt;Librerías (Python)&lt;/h1&gt;
+&lt;p&gt;Librerías que podemos utilizar para comenzar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;En general:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opencv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pillow.readthedocs.io/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pillow&lt;/a&gt;, PIL&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para 3D:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PCL&lt;/li&gt;
+&lt;li&gt;Open3D&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para DL. Frameworks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TensorFLow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pytorch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://caffe.berkeleyvision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caffe&lt;/a&gt; 
+(y más)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;aprender-más&#34;&gt;Aprender más:&lt;/h1&gt;
+&lt;p&gt;Para aprender más sobre computer visión, se puede leer los siguientes libros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Simon J.D. Prince, &lt;a href=&#34;http://www.computervisionmodels.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer vision: models, learning and inference&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Richard Szeliski, &lt;a href=&#34;https://szeliski.org/Book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer vision: algorithms and applications&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elección de cámaras térmicas.</title>
+      <link>https://evelyn-gutierrez.github.io/_post_drafts/termografia/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/_post_drafts/termografia/</guid>
+      <description>&lt;p&gt;Las cámara térmicas tienen diferentes carácteristicas y deben ser tomadas en cuenta antes de compararlas. Conocer estos detalles nos permite entender las ventajas y limitaciones de una cámara.&lt;/p&gt;
+&lt;p&gt;Usualmente, las especificaciones técnicas de la cámara describirán las siguientes carácterísticas:&lt;/p&gt;
+&lt;!--
+* Tamaño de pixel (Thermal pixel size)
+* Resolución (Thermal resolution).
+* Sensibilidad térmica. (Thermal sensitivity)
+* Rango de temperaturas. (Object Temperature range)
+* Operating temperature. 
+--&gt;
+&lt;!--
+### Tamaño de pixel (Thermal pixel size): 
+--&gt;
+&lt;h3 id=&#34;resolución-thermal-resolution&#34;&gt;Resolución (Thermal Resolution):&lt;/h3&gt;
+&lt;p&gt;La cantidad de pixeles que tendrá el sensor de la cámara térmica.&lt;/p&gt;
+&lt;p&gt;A más cantidad de pixeles, es decir, mayor resolución, se tendrá mayor detalle de la temperatura.&lt;/p&gt;
+&lt;p&gt;Si se tomarán fotos desde una distancia considerable, se debe tener el cuenta que una baja resolución tendrá pocos detalles. Será necesario acercarse al objeto para tener más detalle de las temperaturas.&lt;/p&gt;
+&lt;p&gt;Algunas cámaras realizar una mejora de la resolución mediante un proceso automático.&lt;/p&gt;
+&lt;p&gt;Ejemplo: 80x60, 160x120&lt;/p&gt;
+&lt;h3 id=&#34;sensibilidad-térmica-thermal-sensitivity&#34;&gt;Sensibilidad Térmica (Thermal sensitivity):&lt;/h3&gt;
+&lt;p&gt;Este indicador nos dice cuanta diferencia de temperaturas se puede observar con la cámara. Cuanto menor sea el valor de este índicador (thermal sensitivity), mejor será la sensibilidad térmica. Entonces,  será posible detectar diferencias pequeñas de temperatura con la cámara.&lt;/p&gt;
+&lt;h3 id=&#34;rango-de-temperaturas-object-temperature-range&#34;&gt;Rango de temperaturas. (Object Temperature range)&lt;/h3&gt;
+&lt;p&gt;Indica qué temperaturas pueden ser medidas con la cámara térmica. Esto debe tenerse en cuenta especialmente si se compra una cámara para medir muy altas o muy bajas temperaturas. Tener en cuenta que la temperatura que se desea medir se encuentre en el rango.&lt;/p&gt;
+&lt;h3 id=&#34;temperatura-de-trabajo-operating-temperature&#34;&gt;Temperatura de trabajo (Operating temperature).&lt;/h3&gt;
+&lt;p&gt;No todas las cámaras funcionan en cualquier condición. El rango de temperaturas de trabajo (operating temperature) nos dice bajo que condiciones podemos usar la cámara térmica.&lt;/p&gt;
+&lt;!--
+* Non operating temperature.
+* Rango espectral (Spectral range)
+* Frame Rate.
+* Focus
+
+
+Como ejemplo, tenemos la cámara termica FlirOne Pro. Cuesta aproximadamente 500
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

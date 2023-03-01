@@ -11,9 +11,6 @@
     <loc>https://evelyn-gutierrez.github.io/_teaching_draf/1_09otrostemasr/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/_teaching_draf/1_03rmarkdown/</loc>
-    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://evelyn-gutierrez.github.io/_teaching_draf/3_01basicosspss/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,14 +26,14 @@
     <loc>https://evelyn-gutierrez.github.io/teaching_material/advanced-analytics/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://evelyn-gutierrez.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evelyn-gutierrez.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evelyn-gutierrez.github.io/_post_drafts/</loc>
     <lastmod>2022-07-28T16:47:54-05:00</lastmod>
@@ -128,18 +125,6 @@
     <loc>https://evelyn-gutierrez.github.io/category/termografia/</loc>
     <lastmod>2021-07-29T19:20:39-05:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/category/blogdown/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-  </url><url>
-    <loc>https://evelyn-gutierrez.github.io/_post_drafts/article-r/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-  </url><url>
-    <loc>https://evelyn-gutierrez.github.io/category/rstudio/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-  </url><url>
-    <loc>https://evelyn-gutierrez.github.io/category/webpage/</loc>
-    <lastmod>2021-06-26T19:07:45-05:00</lastmod>
-  </url><url>
     <loc>https://evelyn-gutierrez.github.io/_teaching_draf/basicstats_r/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -158,6 +143,18 @@
     <loc>https://evelyn-gutierrez.github.io/tag/temperature-correction/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://evelyn-gutierrez.github.io/tag/3d-models/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/tag/multimodal/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/researchproject/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/researchproject/thermal3dmodels/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://evelyn-gutierrez.github.io/_slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -170,11 +167,26 @@
     <loc>https://evelyn-gutierrez.github.io/teaching/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evelyn-gutierrez.github.io/project/</loc>
+    <loc>https://evelyn-gutierrez.github.io/profesional/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evelyn-gutierrez.github.io/publication_landing/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/research/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/project/_example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/project/_external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evelyn-gutierrez.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evelyn-gutierrez.github.io/admin/</loc>
   </url><url>
