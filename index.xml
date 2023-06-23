@@ -142,6 +142,39 @@
     </item>
     
     <item>
+      <title>Fusion of thermal and three-dimensional data for chronic wound monitoring</title>
+      <link>https://evelyn-gutierrez.github.io/publication/phdthesis/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/phdthesis/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer vision tools</title>
+      <link>https://evelyn-gutierrez.github.io/project/cvapps/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/project/cvapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Baby&#39;s 3D model using SfM.</title>
       <link>https://evelyn-gutierrez.github.io/_post_drafts/gitffrom3dmodel/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
@@ -796,16 +829,27 @@ Three
     </item>
     
     <item>
-      <title>EP</title>
-      <link>https://evelyn-gutierrez.github.io/project/cvapps/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/project/cvapps/</guid>
-      <description>
+      <title>Estimation of the disease prevalence when diagnostic tests are subject to classification error: Bayesian Approach</title>
+      <link>https://evelyn-gutierrez.github.io/publication/mscthesis/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/mscthesis/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 
 
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_url(&amp;quot;https://evelyn-gutierrez-st.streamlit.app/&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;iframe src=&#34;https://evelyn-gutierrez-st.streamlit.app/&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
-&lt;/iframe&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
 </description>
     </item>
     

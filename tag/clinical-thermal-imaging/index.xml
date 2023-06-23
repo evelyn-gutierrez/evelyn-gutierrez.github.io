@@ -5,12 +5,37 @@
     <link>https://evelyn-gutierrez.github.io/tag/clinical-thermal-imaging/</link>
       <atom:link href="https://evelyn-gutierrez.github.io/tag/clinical-thermal-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Clinical Thermal Imaging</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Evelyn Gutierrez</copyright><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Evelyn Gutierrez</copyright><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evelyn-gutierrez.github.io/media/icon_hue5861e7b09946cfd99ee580f73e86465_74937_512x512_fill_lanczos_center_2.png</url>
       <title>Clinical Thermal Imaging</title>
       <link>https://evelyn-gutierrez.github.io/tag/clinical-thermal-imaging/</link>
     </image>
+    
+    <item>
+      <title>Fusion of thermal and three-dimensional data for chronic wound monitoring</title>
+      <link>https://evelyn-gutierrez.github.io/publication/phdthesis/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/phdthesis/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Combined thermal and color 3D model for wound evaluation from handheld devices</title>
@@ -42,6 +67,31 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://evelyn-gutierrez.github.io/publication/acivs2020/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://evelyn-gutierrez.github.io/publication/acivs2020/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimation of the disease prevalence when diagnostic tests are subject to classification error: Bayesian Approach</title>
+      <link>https://evelyn-gutierrez.github.io/publication/mscthesis/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/publication/mscthesis/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
