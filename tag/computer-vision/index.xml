@@ -5,12 +5,20 @@
     <link>https://evelyn-gutierrez.github.io/tag/computer-vision/</link>
       <atom:link href="https://evelyn-gutierrez.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Evelyn Gutierrez</copyright><lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Evelyn Gutierrez</copyright><lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evelyn-gutierrez.github.io/media/icon_hue5861e7b09946cfd99ee580f73e86465_74937_512x512_fill_lanczos_center_2.png</url>
       <title>Computer Vision</title>
       <link>https://evelyn-gutierrez.github.io/tag/computer-vision/</link>
     </image>
+    
+    <item>
+      <title>Computer vision tools</title>
+      <link>https://evelyn-gutierrez.github.io/project/cvapps/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://evelyn-gutierrez.github.io/project/cvapps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Introducción a Computer Vision</title>
@@ -90,15 +98,6 @@ https://nanonets.com/blog/optical-flow/
 &lt;p&gt;Richard Szeliski, &lt;a href=&#34;https://szeliski.org/Book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer vision: algorithms and applications&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Thermal 3D models</title>
-      <link>https://evelyn-gutierrez.github.io/researchproject/thermal3dmodels/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/researchproject/thermal3dmodels/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
     </item>
     

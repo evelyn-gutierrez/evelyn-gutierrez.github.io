@@ -62,12 +62,11 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Thermal 3D models</title>
-      <link>https://evelyn-gutierrez.github.io/researchproject/thermal3dmodels/</link>
+      <title>Improving temperature estimation from thermography.</title>
+      <link>https://evelyn-gutierrez.github.io/project/temperature-correction/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://evelyn-gutierrez.github.io/researchproject/thermal3dmodels/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-</description>
+      <guid>https://evelyn-gutierrez.github.io/project/temperature-correction/</guid>
+      <description></description>
     </item>
     
   </channel>
